@@ -6,7 +6,8 @@ This project implements an AI that learns to play Flappy Bird using the NEAT (Ne
 
 Flappy Bird AI uses the NEAT algorithm to evolve a population of neural networks that control birds navigating through pipes. Each generation of birds learns from the previous one, with the most successful birds passing on their traits to the next generation.
 
-![Flappy Bird AI Demo](imgs/demo.png)
+![image](https://github.com/user-attachments/assets/d30a8f38-08bf-4bb6-8307-d9b90eeccdf0)
+
 
 ## Features
 
